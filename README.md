@@ -60,11 +60,11 @@ TokenPass 在关于页面说明：部分平台会支付推广返佣，核心比�
 
 [**了解 TokenPass 如何运营 →**](https://tokenpassai.com/about.html)
 
-## 两步开始
+## 三步开始
 
 1. **选模型：**打开[完整比价](https://tokenpassai.com/comparison.html)，选择你正在用的具体模型。
 2. **看条件：**比较输入、输出、缓存价格、倍率基准、采集时间、渠道状态和免费层限制。
-3. **设提醒：**在[首页订阅](https://tokenpassai.com/#newsletter)，告诉 TokenPass 你关心哪个模型和哪类价格变化。
+3. **设提醒：**在[首页订阅](https://tokenpassai.com/#subscribe)，告诉 TokenPass 你关心哪个模型和哪类价格变化。
 
 浏览公开比价无需注册；免费提醒只需邮箱和偏好，不需要 API Key。若你想查看会员专属深度优惠渠道或监控更多模型，请先在[会员页](https://tokenpassai.com/member.html)查看当前权益、价格和风险说明。
 
