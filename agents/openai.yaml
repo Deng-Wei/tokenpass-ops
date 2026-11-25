@@ -1,0 +1,4 @@
+interface:
+  display_name: "TokenPass Ops"
+  short_description: "Work on TokenPass product and operations"
+  default_prompt: "Use $tokenpass-ops to help with this TokenPass task."
